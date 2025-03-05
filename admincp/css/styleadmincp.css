@@ -1,0 +1,71 @@
+ul.admincp_list{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+ul.admincp_list li{
+    float: left;
+    margin: 5px;
+}
+.clear{
+    clear: both;
+}
+h3.title_admin{
+    text-align: center;
+    font-size: 40px;
+}
+p.listed{
+    text-align: center;
+    font-size: 20px;
+}
+
+.wrapper{
+    display: grid;
+    height: auto;
+    width: 100%;
+    margin: 0 auto;
+}
+.modal-body {
+    display: flex;
+    flex-direction: column;
+}
+
+.form-group {
+    display: flex;
+    flex-direction: column;
+}
+
+.input-row {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px; /* Khoảng cách giữa các hàng */
+}
+
+.input-row label {
+    flex: 1; /* Chia đều không gian cho label và input */
+    margin-right: 10px; /* Khoảng cách giữa label và input */
+}
+
+.input-row input {
+    flex: 2; /* Chia đều không gian cho label và input */
+}
+.navbar,
+.navbar a {
+  color: #9A7151;
+}
+
+.navbar input,
+.navbar button {
+  color: #9A7151;
+}
+.dropdown-menu .dropdown-item .nav-link:hover{
+    color: #FAE8E0;
+  }
+.table-custom {
+    background-color: #DBA175 !important;
+}
+.center-content td {
+    vertical-align: middle; /* căn giữa dọc */
+    text-align: center; /* căn giữa ngang */
+}
+

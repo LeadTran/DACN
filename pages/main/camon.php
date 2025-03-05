@@ -1,0 +1,1 @@
+<p>Cám ơn bạn đã ủng hộ cửa hàng thú cưng, chúng tôi sẽ sớm liên hệ với bạn!</p>
